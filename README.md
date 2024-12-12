@@ -34,11 +34,11 @@ ZUID is a modern and fully responsive personal portfolio website for creative pr
 - Text Light: #e2e2e2
 
 ## 🤝 Contributing
-> Fork the repository
-> Create your feature branch (git checkout -b feature/AmazingFeature)
-> Commit your changes (git commit -m 'Add some AmazingFeature')
-> Push to the branch (git push origin feature/AmazingFeature)
-> Open a Pull Request
+> - Fork the repository
+> - Create your feature branch (git checkout -b feature/AmazingFeature)
+> - Commit your changes (git commit -m 'Add some AmazingFeature')
+> - Push to the branch (git push origin feature/AmazingFeature)
+> - Open a Pull Request
 
 ## 📄 License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
