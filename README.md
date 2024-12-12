@@ -3,9 +3,9 @@
 ## 🌟 Overview
 ZUID is a modern and fully responsive personal portfolio website for creative professionals.
 
-[Poster1](poster1.jpg)
-[Poster1](poster2.jpg)
-[Poster1](poster3.jpg)
+![Poster1](poster1.jpg)
+![Poster1](poster2.jpg)
+![Poster1](poster3.jpg)
 
 ### Sections
 1. Navigation
